@@ -130,11 +130,11 @@ def search2():
         print("\nNumber of comparisons required: ", c)
             
                 
-# print("\n\n*** MENU ***\n")
-# print("1. Input information in the hash table using linear probing")
-# print("2. Input information in the hash table using double hashing")
-# print("3. Search the hash table using linear probing")
-# print("4. Search the hash table using double hashing")
+print("\n\n*** MENU ***\n")
+print("1. Input information in the hash table using linear probing")
+print("2. Input information in the hash table using double hashing")
+print("3. Search the hash table using linear probing")
+print("4. Search the hash table using double hashing")
 
 
 a = 1
